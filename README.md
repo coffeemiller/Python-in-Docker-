@@ -5,8 +5,14 @@
 이 프로젝트는 Python에 대한 기초-중급 과정의 강의를 정리하고 체계화하는데 목적을 두고 있습니다.
 
 참여자 명단
-1. 염상민(coffeemiller) - petrus.sangmin@gmail.com
-2. 신동혁(ejrm0811) - ejrm0811@gmail.com
+1. coffeemiller - petrus.sangmin@gmail.com
+2. ejrm0811 - ejrm0811@gmail.com
+3. 
+4.
+5.
+6.
+
+
+
 '''
 
-hi yeom
