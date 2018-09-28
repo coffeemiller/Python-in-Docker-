@@ -8,5 +8,3 @@
 2. ejrm0811 - ejrm0811@gmail.com
 3. denmark111 - denmark11@naver.com
 4. tinygreen92 - tinygreen92@naver.com
-5.
-6.
