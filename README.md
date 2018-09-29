@@ -9,5 +9,5 @@
 3. denmark111 - denmark11@naver.com
 4. tinygreen92 - tinygreen92@naver.com
 
-현재 1,2일... ThinkWise로 진행 중...
+현재 1,2일... ThinkWise로 진행 중...  
 나머지 분들 중에서 맡아서 해주셨으면 합니다.
