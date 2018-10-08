@@ -12,8 +12,8 @@
 
 현재... ThinkWise로 진행 중...  
 
-coffeemiller - 1일차.
-eunching - 2일차.
-ejrm0811 - 3일차.
-denmark111 - 4일차.
-tinygreen92 - 5일차.
+coffeemiller - 1일차.  
+eunching - 2일차.  
+ejrm0811 - 3일차.  
+denmark111 - 4일차.  
+tinygreen92 - 5일차.  
