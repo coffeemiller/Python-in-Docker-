@@ -10,5 +10,10 @@
 4. tinygreen92 - tinygreen92@naver.com
 5. eunching - dmsrud51821@gmail.com
 
-현재 1,2일... ThinkWise로 진행 중...  
-나머지 분들 중에서 맡아서 해주셨으면 합니다.
+현재... ThinkWise로 진행 중...  
+
+coffeemiller - 1일차.
+eunching - 2일차.
+ejrm0811 - 3일차.
+denmark111 - 4일차.
+tinygreen92 - 5일차.
