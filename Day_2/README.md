@@ -12,7 +12,7 @@
   1.1. 도커에서 파이썬 사용하는 방법  
     1.1.1. docker exec -it 이미지이름 bash  
     1.1.2. python  
-    1.1.3. 파있너 이용 종료시 exit() or Ctrl+D  
+    1.1.3. 파이썬 이용 종료시 exit() or Ctrl+D  
 
 2. 쥬피터  
   2.1. 쥬피터 접속법  
